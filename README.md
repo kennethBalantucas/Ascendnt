@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Ascendnt
-- 👀 I’m interested in learning codes
-- 🌱 I’m currently learning python
+- 👋 Hi, I’m Kenneth
+- 👀 I’m interested in wed development
+- 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
